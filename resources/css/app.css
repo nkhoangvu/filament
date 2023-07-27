@@ -1,0 +1,4 @@
+@import '../../vendor/saade/filament-fullcalendar/resources/css/filament-fullcalendar.css';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
