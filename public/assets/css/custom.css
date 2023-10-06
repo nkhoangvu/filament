@@ -1,0 +1,156 @@
+.responsive {
+    width: 100%;
+    height: auto;
+}
+ 
+.card{
+	margin-bottom: 20px;
+}
+
+.card-title{
+	text-align: center;
+    	padding-top: 8px;
+}
+i.fas.fa-briefcase.bg-primary {
+    --bs-bg-opacity: 1;
+    background-color: #007BFF;
+    color: white;
+    border-radius: 30px;
+    padding: 5px;
+    float: left;
+    margin-right: 10px;
+}
+
+.time-label {
+    padding: 10px;
+    font-weight: 600;
+}
+
+h4.timeline-header {
+    border-left: 5px solid #dee2e6;
+    margin-left: 10px;
+    padding-bottom: 10px;
+}
+
+div#sunghiep {
+    padding-top: 20px;
+}
+/*Tab sự nghiệp*/
+h4.timeline-header {
+    border: 1px solid #dee2e6;
+    margin-left: 20px;
+    padding: 6px;
+    box-shadow: #dee2e6 2px 2px;
+    font-size: 18px;
+}
+
+i.fas.fa-briefcase.bg-primary {
+    background-color: #007BFF;
+    color: white;
+    border-radius: 30px;
+    padding: 8px;
+    float: left;
+    margin-right: 10px;
+    margin-top: 15px;
+}
+
+.timeline-item {
+    border-left: 5px solid #dee2e6;
+    margin-left: 14px;
+    padding: 10px 0px;
+}
+
+i.far.fa-clock.bg-gray {
+    padding-left: 8px;
+}
+/*Đổi màu icon xám sang xanh*/
+i.fa-solid.fa-calendar-plus, i.fa-solid.fa-star-of-life, i.fa-solid.fa-calendar-minus, i.fa-solid.fa-heart-pulse, i.fas.fa-map-marker-alt.mr-1, i.fas.fa-award.mr-1, i.fas.fa-briefcase.mr-1 {
+    color: #007bff;
+}
+/*Box thông tin các nhân*/
+h3.profile-username.text-center {
+    font-size: 24px;
+    padding-top: 20px;
+}
+
+.card-header {
+    height: 46px;
+}
+/*Box Profile*/
+h3.card-title {
+    text-align: center;
+    padding-top: 4px;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+i.fas.fa-briefcase.bg-primary {
+    color: white;
+    border-radius: 30px;
+    padding: 8px;
+    float: left;
+    margin-right: 10px;
+    margin-top: 24px;
+}
+
+.timeline-item {
+    border-left: 3px solid #dee2e6;
+    margin-left: 14px;
+    padding: 20px 0px;
+}
+
+span.bg1-danger {
+    background: #26b16d;
+    color: white;
+    padding: 8px;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+h4.timeline-header {
+    border: 1px solid #dee2e6;
+    margin-left: 20px;
+    padding: 6px;
+    box-shadow: #dee2e6 2px 2px;
+    font-size: 16px;
+}
+
+.time-label {
+    font-weight: 600;
+}
+
+
+.timeline.timeline-inverse {
+    padding-top: 20px;
+}
+
+/*Text cây phả hệ*/
+a.tree-name {
+    font-size: 14px;
+}
+
+blockquote.quote-danger {
+    border-left: 7px solid #DC3545;
+    padding-left: 10px;
+}
+
+    blockquote.quote-danger ul {
+        list-style-position: inside;
+        margin-left: -30px;
+    }
+
+h5#note {
+    font-weight: 600;
+    color: #dc3545;
+}
+
+.nav-icon {
+    margin-right: 5px;
+}
+.nav-icon-inv {
+    margin-left: 5px;
+}
+
+.border-10 {
+    --bs-border-width: 10px;
+}
